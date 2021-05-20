@@ -1,4 +1,4 @@
-package com.ramosfagundeswanderson.projetospringbootjpahibernate;
+package wanderson.projetospringbootjpahibernate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
